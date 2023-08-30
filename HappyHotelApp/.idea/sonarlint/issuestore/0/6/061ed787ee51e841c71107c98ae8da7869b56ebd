@@ -1,0 +1,11 @@
+
+7
+java:S1116."Remove this empty statement.(Åñ­õþÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(ÆŸÿÿÿÿÿ
+T
+java:S1854N">Remove this useless assignment to local variable "executable".(Òš›¼
+Q	java:S125L"<This block of commented-out lines of code should be removed.(Œ˜˜ð
+E
+java:S1481N"/Remove this unused "executable" local variable.(Òš›¼
+Q	java:S125O"<This block of commented-out lines of code should be removed.(ž²Â›
+Q	java:S125X"<This block of commented-out lines of code should be removed.(¬ÈÇÅ

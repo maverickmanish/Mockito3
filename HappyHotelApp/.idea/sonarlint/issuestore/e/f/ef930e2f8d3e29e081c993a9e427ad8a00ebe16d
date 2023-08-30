@@ -1,0 +1,15 @@
+
+s
+java:S1450"]Remove the "bookingDAOMock" field and declare it as a local variable in the relevant methods.(Àí•™
+v
+java:S1450"aRemove the "paymentServiceMock" field and declare it as a local variable in the relevant methods.(Ï‹¥D
+7
+java:S1116""Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S1116$"Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S1116&"Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S11162"Remove this empty statement.(Åñ­õþÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(ÆŸÿÿÿÿÿ
+Q	java:S125W"<This block of commented-out lines of code should be removed.(¬ÈÇÅ
